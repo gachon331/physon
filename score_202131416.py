@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 18 18:29:41 2021
-
-@author: ng110
-"""
 
 score1= int(input("1회차 성적 점수를 입력해주세요: "))
 score2= int(input("2회차 성적 점수를 입력해주세요: "))
